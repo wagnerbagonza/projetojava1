@@ -9,6 +9,7 @@ public class PrimeiraClasseJava {
 		//Aluno aluno1;
 		//Objeto alocado na memória
 		Aluno aluno1 = new Aluno();
+		aluno1.nome = "João";
 		Aluno aluno2 = new Aluno();
 		Aluno aluno3 = new Aluno();
 		
