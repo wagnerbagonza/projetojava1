@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/constantes</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/JAVA/javaOO/src/cursojava/constantes</locationURI>
+		</link>
+		<link>
+			<name>src/executavel</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/JAVA/javaOO/src/cursojava/executavel</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
